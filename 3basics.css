@@ -25,7 +25,7 @@ h1 { /*-- type selector --*/
     text-shadow: 1px 1px rgba(0,0,0,0.25);
 }
 
-li > a { /*-- child selector --*/
+li > a { /*-- child selector --*/ 
     font-weight: 600;
 }
 
